@@ -26,7 +26,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
  –  React framework 
  –  web develop With Node JS `,img:`https://res.cloudinary.com/qtpaf4ov/image/upload/v1784797415/557640858_1201810221981222_3330637791893564185_n_yy4cvk.jpg`,location:`https://maps.app.goo.gl/Rb2wexzSqarmGtDLA`}),(0,j.jsx)(Qn,{name:`Orb Scope`,topics:`
  –  Backend Development - Node.js 
- –  Backend Development - MySQL & PHP Laravel  `,img:`https://res.cloudinary.com/qtpaf4ov/image/upload/v1784797616/copy_of_academy_qcq1af.png`,location:`https://maps.app.goo.gl/4SpJPZoWgeM2aMRd6`}),(0,j.jsx)(Qn,{name:`معهد ومض`,topics:` 
+ –  Backend Development - MySQL & PHP Laravel  `,img:`https://res.cloudinary.com/qtpaf4ov/image/upload/v1784797616/copy_of_academy_qcq1af.png`,location:`https://maps.app.goo.gl/4SpJPZoWgeM2aMRd6`}),(0,j.jsx)(Qn,{name:` (جارى التأكيد أنه المكان الصحيح) معهد ومض`,topics:` 
  –  AI Based Software Engineering 
  –  Web Development Advanced 
  –  Full Stack Using Python`,img:`https://res.cloudinary.com/qtpaf4ov/image/upload/v1784810763/logo15_ypw8da.png`,location:`https://maps.app.goo.gl/ffDjawXjWizTuE8a9?g_st=ic`})]})}),e[4]=a):a=e[4],a};(0,Xn.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(x.StrictMode,{children:(0,j.jsx)(Tn,{children:(0,j.jsx)(()=>{let e=(0,Zn.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,j.jsx)(Lt,{children:(0,j.jsx)(Ft,{path:`/`,element:(0,j.jsx)($n,{})})}),e[0]=t):t=e[0],t},{})})}));
