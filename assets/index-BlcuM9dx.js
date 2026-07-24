@@ -26,7 +26,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
  –  React framework 
  –  web develop With Node JS `,img:`https://res.cloudinary.com/qtpaf4ov/image/upload/v1784797415/557640858_1201810221981222_3330637791893564185_n_yy4cvk.jpg`,location:`https://maps.app.goo.gl/Rb2wexzSqarmGtDLA`}),(0,j.jsx)(Qn,{name:`Orb Scope`,topics:`
  –  Backend Development - Node.js 
- –  Backend Development - MySQL & PHP Laravel  `,img:`https://res.cloudinary.com/qtpaf4ov/image/upload/v1784797616/copy_of_academy_qcq1af.png`,location:`https://maps.app.goo.gl/4SpJPZoWgeM2aMRd6`}),(0,j.jsx)(Qn,{name:`Ray\` Group 
+ –  Backend Development - MySQL & PHP Laravel  `,img:`https://res.cloudinary.com/qtpaf4ov/image/upload/v1784797616/copy_of_academy_qcq1af.png`,location:`https://maps.app.goo.gl/4SpJPZoWgeM2aMRd6`}),(0,j.jsx)(Qn,{name:`Ray Group 
  ال location بتاع المكان جنب ومض عشان ملهوش أسم على maps`,topics:`
  –  AI Based Software Engineering 
  –  Web Development Advanced 
